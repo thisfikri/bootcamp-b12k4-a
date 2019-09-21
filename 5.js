@@ -27,4 +27,3 @@ function buyNoodle(date, budget) {
 console.log(buyNoodle(25, 50000));
 console.log(buyNoodle(25, 100000));
 console.log(buyNoodle(16, 40000));
-// console.log(0 % 3);
