@@ -21,5 +21,5 @@ JSON digunakan pada REST API karena:
 
 
 ## Screenshoot/Capture No.6
-![alt text] (https://github.com/thisfikri/bootcamp-b12k4-a/blob/master/soal6/capture/ss1.png?raw=true)
-*Note:* Saya hanya bisa menyelesaikan web statis untuk nomor 6
+![SS1](https://github.com/thisfikri/bootcamp-b12k4-a/blob/master/soal6/capture/ss1.png)
+*Note:* Saya hanya bisa menyelesaikan web statis dan database untuk nomor 6
